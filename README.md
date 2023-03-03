@@ -12,7 +12,7 @@ She does not allow any polling other than online survey sampling. So phone polli
 
 2.	What sampling scheme would you use? Describe it in Excel in detail.
 
-3.	What will your questionnaire be? Please write it out (maximum 10 questions)
+3.	What will your questionnaire be? Please write it out (maximum 10 questions).
 
 4.	What issues relating to bias do you see there? How will you address them? Please discuss.
 
