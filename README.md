@@ -6,7 +6,7 @@ You have been given 10 working days and AUD 15,000 by a gambler who wants to kno
 
 She does not allow any polling other than online survey sampling. So phone polling, street intercept, qualitative studies are now allowed.
 
-## Questions to you:
+### Questions to you:
 
 1.	Please describe your approach.
 
