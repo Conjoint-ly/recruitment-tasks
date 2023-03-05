@@ -1,8 +1,8 @@
 ## Interview task
 
-A toilet paper company is about to launch a new advertising campaign for a new brand of toilet paper in the USA.
+An FMCG manufacturer is about to launch an advertising campaign for a new brand of toilet paper in the USA.
 
-They asked you to design a study to measure the effect of the campaign on the brand's image.
+They asked you to design a study to measure the effect of the campaign on the brand's awareness.
 
 The client does not allow any polling other than online survey sampling. So phone polling, street intercept, qualitative studies are now allowed.
 
@@ -10,7 +10,7 @@ The client does not allow any polling other than online survey sampling. So phon
 
 1. Please describe your approach.
 
-2. How will you define the measure of effect of the campaign on the brand's image?
+2. How will you define the measure of effect of the campaign on the brand's awareness?
 
 2. What sampling scheme would you use? Describe it in Excel in detail.
 
