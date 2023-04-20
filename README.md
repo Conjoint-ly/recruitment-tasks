@@ -1,6 +1,6 @@
 ## Interview task
 
-An FMCG manufacturer is about to launch an advertising campaign for a new national brand of toilet paper in the USA. This will be the first advertising campaign for this brand.
+An FMCG manufacturer is about to launch an advertising campaign for Voltage Paper, a new national brand of toilet paper in the USA. Voltage Paper is already sold across multiple channels nationwide. This will be the first advertising campaign for this brand.
 
 They asked you to design a study to measure the effect of the campaign on awareness of the brand.
 
